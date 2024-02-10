@@ -1,0 +1,50 @@
+.banner {
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://awsimages.detik.net.id/community/media/visual/2021/10/13/unimed-dok-instagram-unimed_169.jpeg?w=600&q=90');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.highlighted-kategori {
+    height: 250px;
+}
+
+.kategori-1 {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/Guess\ 1_1.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-2 {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/Bange_2.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-3 {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/Evermoon_4.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+.image-box {
+    height: 250px;
+}
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.banner-produk {
+    height: 45vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.no-decoration {
+    text-decoration: none;
+}
